@@ -1,4 +1,4 @@
-# Davidenco - 404 PAGE NOT FOOUND
+# Davidenco - 404 PAGE NOT FOUND
 
 This is a solution to the mission number 1 - HTML - project of the Make It Real course.
 
